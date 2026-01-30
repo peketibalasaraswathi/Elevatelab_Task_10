@@ -71,6 +71,12 @@ Sample Predictions
 
 # output
 
+<img width="769" height="582" alt="Image" src="https://github.com/user-attachments/assets/e555216f-90c2-4748-8475-b66c6b167894" />
+
+<img width="1305" height="502" alt="Image" src="https://github.com/user-attachments/assets/d1d8b3b4-2f56-4ccb-99c3-1ae3845189c4" />
+
+<img width="688" height="598" alt="Image" src="https://github.com/user-attachments/assets/2a01d6f2-95d8-438d-86cd-31754fa19b61"/>
+
 
 # Key Learnings
 
